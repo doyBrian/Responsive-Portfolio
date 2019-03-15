@@ -6,6 +6,9 @@ In this assignment, you'll create two different portfolios. The first will be bu
 your portfolio layout using the Bootstrap CSS Framework. The second will be enhancing
 the portfolio you made last unit with a mobile-responsive layout.
 
+### Deployed Site Link
+https://doybrian.github.io/Responsive-Portfolio/
+
 ### Before You Begin
 
 * If you opted to do the wireframe (easier) assignment for last homework or if you struggled with the portfolio design, ask a member of the instructional staff to provide you with the solution files. This will provide a starting point for the current assignment. 

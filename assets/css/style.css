@@ -39,6 +39,7 @@ h3 {
 }
 
 h1 {
+  margin-top: 0px;
   padding-bottom: 20px;
   font-size: 30px;
   line-height: 49px;
@@ -139,12 +140,9 @@ h3, h2 {
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 255px;
   margin: 20px 0 25px;
   overflow: auto;
-}
-
-.work:nth-child(even) {
   margin-right: 40px;
 }
 
@@ -152,6 +150,10 @@ h3, h2 {
   width: 100%;
   border: 0 none;
   opacity: 0.8;
+}
+
+#img7{
+  height: 191.25px;
 }
 
 .work h3 {
@@ -253,6 +255,7 @@ h1, h2, h3, p {
 }
 
 h1 {
+  margin-top: 20px;
   padding-bottom: 25px;
   font-size: 20px;
   line-height: 5px;
@@ -290,14 +293,15 @@ input[type=submit] {
   width: 200px;
   margin: 10px 0 10px;
   overflow: auto;
-}
-
-.work:nth-child(even) {
   margin-right: 0;
 }
 
 .work img {
   width: 65%;
+}
+
+#img7{
+  height: 97.5px;
 }
 
 .work h3 {
@@ -311,6 +315,10 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 768px) {
+
+h1 {
+  margin-top: 20px;
+}
 
 .work:nth-child(even) {
     margin-right: 20px;
@@ -340,12 +348,9 @@ nav {
   overflow: auto;
 }
 
-.work:nth-child(even) {
-  margin-right: 40;
-}
-
 .work img {
   width: 85%;
+  height: 85%;
 }
 
 .work h3 {
@@ -369,6 +374,7 @@ h1, h2, h3 {
 }
 
 h1 {
+  margin-top: 20px;
   padding-bottom: 20px;
   font-size: 18px;
   line-height: 49px;

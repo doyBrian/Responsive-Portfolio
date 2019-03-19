@@ -366,6 +366,10 @@ input[type=submit] {
   font-size: 12px;
 }
 
+#img7{
+  height: 174.66px;
+}
+
 }
 
 @media screen and (max-width: 640px) {
@@ -481,6 +485,10 @@ input[type=submit] {
 
 .work:nth-child(even) {
   margin-right: 0;
+}
+
+#img7{
+  height: 164.39px;
 }
 
 }
